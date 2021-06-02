@@ -4,6 +4,7 @@
 # Modularizacion -> Varias clases dentro de un programa
 # Encapsulacion -> Las clases no saben del funcionamiento de las otras pero estan de alguna forma conectadas para poder funcionar como equipo
 
+# Ya hay cambios en este, asi que a ver como se hace en github
 class Coche():# Propiedades
     #Vamos a crear un constructor de la clase (lo que da un estado inicial a los objetos de la clase)
     def __init__(self):
